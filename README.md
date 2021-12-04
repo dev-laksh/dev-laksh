@@ -9,8 +9,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new things
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-laksh)](https://github.com/dev-laksh/github-readme-stats)
+[![Laksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-laksh)](https://github.com/dev-laksh/github-readme-stats)
 
+<a href="https://app.daily.dev/shankerlaksh37"><img src="https://api.daily.dev/devcards/229ff0cb673b47359994dccc7dd587fe.png?r=ify" width="400" alt="Lakshya Shanker's Dev Card"/></a>
 
 ## 🛠 Language and Tools
 
