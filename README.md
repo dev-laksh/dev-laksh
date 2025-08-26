@@ -4,9 +4,9 @@
   
 ## I'm a student, youtuber and i write code !
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently pursuing my degree from University of Maharaja College
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new things
 
 [![Laksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-laksh)](https://github.com/dev-laksh/github-readme-stats)
